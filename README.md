@@ -1,2 +1,1 @@
-# MIBandScrollDemo
-MiBandHomePageScrollDemo
+ScrollDemo
